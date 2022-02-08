@@ -1,5 +1,5 @@
 # Code Refactor Starter Code
 
-Code refratoring source code
-clean up code
+Added semantics to html
+consolidated CSS classes to styles
 
