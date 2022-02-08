@@ -3,4 +3,4 @@
 Added semantics to html
 consolidated CSS classes to styles
 
-![alt tag](screenshots/screen-capture.png "Screen shot of webpage")
+![alt tag](screenshots/screencapture-file.png "Screen shot of webpage")
