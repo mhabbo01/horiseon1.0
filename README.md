@@ -3,4 +3,4 @@
 Added semantics to html
 consolidated CSS classes to styles
 
-![alt tag](horiseon1.0/screencapture-file.png "Screen shot of webpage")
+![alt tag](/main/horiseon1.0/screencapture-file.png "Screen shot of webpage")
